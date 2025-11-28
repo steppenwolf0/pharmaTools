@@ -1,0 +1,164 @@
+Target: CD3E (ENSG00000198851)
+
+Known Drugs:
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: EPCORITAMAB (CHEMBL4650393)
+- Drug: GLOFITAMAB (CHEMBL4298092)
+- Drug: MUROMONAB-CD3 (CHEMBL1201608)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: CATUMAXOMAB (CHEMBL2108581)
+- Drug: TECLISTAMAB (CHEMBL4594505)
+- Drug: ELRANATAMAB (CHEMBL4297809)
+- Drug: ELRANATAMAB (CHEMBL4297809)
+- Drug: TALQUETAMAB (CHEMBL4594503)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: CATUMAXOMAB (CHEMBL2108581)
+- Drug: TEPLIZUMAB (CHEMBL1743078)
+- Drug: TEPLIZUMAB (CHEMBL1743078)
+- Drug: MOSUNETUZUMAB (CHEMBL4297788)
+- Drug: ODRONEXTAMAB (CHEMBL4298084)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: VISILIZUMAB (CHEMBL2108811)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: BLINATUMOMAB (CHEMBL1742992)
+- Drug: ODRONEXTAMAB (CHEMBL4298084)
+
+Pharmacogenomics:
+============================================================
+
+Target: ALDH1A3 (ENSG00000184254)
+
+Known Drugs:
+
+Pharmacogenomics:
+============================================================
+
+Target: CD101 (ENSG00000134256)
+
+Known Drugs:
+
+Pharmacogenomics:
+============================================================
+
+Target: LPAR1 (ENSG00000198121)
+
+Known Drugs:
+- Drug: BMS-986020 (CHEMBL4297270)
+- Drug: BMS-986020 (CHEMBL4297270)
+
+Pharmacogenomics:
+============================================================
+
+Target: B4GALT1 (ENSG00000086062)
+
+Known Drugs:
+
+Pharmacogenomics:
+============================================================
+
+Target: ITGA10 (ENSG00000143127)
+
+Known Drugs:
+
+Pharmacogenomics:
+============================================================
+
+Target: IDO1 (ENSG00000131203)
+
+Known Drugs:
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: LINRODOSTAT (CHEMBL4297598)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+- Drug: EPACADOSTAT (CHEMBL3545369)
+
+Pharmacogenomics:
+- Drugs: ['interferon alfa-2a, recombinant']
+  Phenotype: decreased risk for moderate or severe depression
+  Genotype: Patients with the CT genotype may have decreased, but not absent, risk for moderate or severe depression when treated with peginterferon alfa-2b or recombinant interferon alfa-2a as compared to patients with the CC genotypes. Other genetic and clinical factors may also influence a patient's risk for drug side effects.
+  Evidence Level: 3
+  PGx Category: toxicity
+  Study ID: 827847751
+----------------------------------------
+- Drugs: ['peginterferon alfa-2b']
+  Phenotype: risk for moderate or severe depression
+  Genotype: Patients with the CC genotype may have increased risk for moderate or severe depression when treated with peginterferon alfa-2b or recombinant interferon alfa-2a as compared to patients with the CT or TT genotypes. Other genetic and clinical factors may also influence a patient's risk for drug side effects.
+  Evidence Level: 3
+  PGx Category: toxicity
+  Study ID: 827847751
+----------------------------------------
+- Drugs: ['interferon alfa-2a, recombinant']
+  Phenotype: decreased risk for moderate or severe depression
+  Genotype: Patients with the TT genotype may have decreased, but not absent, risk for moderate or severe depression when treated with peginterferon alfa-2b or recombinant interferon alfa-2a as compared to patients with the CC genotypes. Other genetic and clinical factors may also influence a patient's risk for drug side effects.
+  Evidence Level: 3
+  PGx Category: toxicity
+  Study ID: 827847751
+----------------------------------------
+- Drugs: ['peginterferon alfa-2b']
+  Phenotype: decreased risk for moderate or severe depression
+  Genotype: Patients with the CT genotype may have decreased, but not absent, risk for moderate or severe depression when treated with peginterferon alfa-2b or recombinant interferon alfa-2a as compared to patients with the CC genotypes. Other genetic and clinical factors may also influence a patient's risk for drug side effects.
+  Evidence Level: 3
+  PGx Category: toxicity
+  Study ID: 827847751
+----------------------------------------
+- Drugs: ['peginterferon alfa-2b']
+  Phenotype: decreased risk for moderate or severe depression
+  Genotype: Patients with the TT genotype may have decreased, but not absent, risk for moderate or severe depression when treated with peginterferon alfa-2b or recombinant interferon alfa-2a as compared to patients with the CC genotypes. Other genetic and clinical factors may also influence a patient's risk for drug side effects.
+  Evidence Level: 3
+  PGx Category: toxicity
+  Study ID: 827847751
+----------------------------------------
+- Drugs: ['interferon alfa-2a, recombinant']
+  Phenotype: risk for moderate or severe depression
+  Genotype: Patients with the CC genotype may have increased risk for moderate or severe depression when treated with peginterferon alfa-2b or recombinant interferon alfa-2a as compared to patients with the CT or TT genotypes. Other genetic and clinical factors may also influence a patient's risk for drug side effects.
+  Evidence Level: 3
+  PGx Category: toxicity
+  Study ID: 827847751
+----------------------------------------
+============================================================
+
+Target: PCTP (ENSG00000141179)
+
+Known Drugs:
+
+Pharmacogenomics:
+============================================================
+
+Target: NRL (ENSG00000129535)
+
+Known Drugs:
+
+Pharmacogenomics:
+============================================================
+
+Target: CCL5 (ENSG00000271503)
+
+Known Drugs:
+
+Pharmacogenomics:
+============================================================
+
